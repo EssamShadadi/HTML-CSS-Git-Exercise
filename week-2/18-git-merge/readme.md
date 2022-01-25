@@ -72,3 +72,4 @@ Now that you've created the pull request, make some final checks and then merge 
 ![Screenshot of the open pull request screen in GitHub](/images/18/pull-request-3.png)
 
 Congratulations! You have now changed the colour of the links and merged those changes to your `master` branch.
+#Kali destro#
